@@ -360,30 +360,30 @@ const experience = {
       title: "Work Experience",
       experiences: [
         {
-          title: "Full Stack Developer (Intern)",
-          company: "Valora Infotech",
-          company_url: "https://valora-infotech.business.site/",
-          logo_path: "valora.jpg",
-          duration: "Oct 2020 - Mar 2021",
+          title: "Frontend Developer (Intern)",
+          company: "HISP TANZANIA",
+          company_url: "https://hisptanzania.org/",
+          logo_path: "HISP-LOGO.svg",
+          duration: "Jul 2021 - Sept 2021",
           location: "Office",
-          description: `Train, manage and provide guidance to junior software development staff.
-          Work closely with the Project Manager and Team Leads on change request functions.
-          Develops new and maintains existing applications.
-          Increased productivity and problem-solving technics by 20%.
-          We primarily used PERN and MERN Stack. 80% of my work was doing backend development and the remaining 20% was DevOps-related tasks.
+          description: `Work as Frontend Developer using React on a web application that was based on DHIS2. Built a DHIS2 Metadata Dictionary which can be standalone or integrated into other DHIS2 application
+           to provide more insight on various metadata that were used. Spent most of time integrating the app with DHIS2 metadata API on data elements, indicators, program indicators, their related groups and functions and its rules.
+           Also worked closed with experienced developers at the company which helped to gain much understanding of various aspects of software develpment, good practices in coding and acting professional in the field
+         
           `,
-          // "I worked on the Dashboard project which helps users track their activities while using Walo Application. I also worked on Ocean Inventory Application and it's Admin panel Backend as well as on Ocean Inventory Admin Front-end using React and also worked on Walo Admin Backend.",
+
           color: "#0071C5",
         },
         {
-          title: "Full Stack Developer (Freelancer)",
-          company: "NightOwls",
-          company_url: "http://nightowls.company/",
-          logo_path: "nightowls.jpg",
-          duration: "Sep 2020 - Oct 2020",
-          location: "Work From Home",
-          description: `Work closely with the Client and Team on change request functions.
-          We Primarily used LAMP Stack. 40% of my work was doing backend development, 30% of my work was designing database schemas, and 30% of my work was on maintain hosting and user traffics on the website.
+          title: "Software Developer(Intern)",
+          company: "Tanzania Data Lab",
+          company_url: "https://dlab.or.tz/",
+          logo_path: "dlab.png",
+          duration: "Jul 2019 - Mar 2020",
+          location: "Work From Home, and at Office",
+          description: `Worked as Frontend Web Developer to build dLab Drive, which is an online files repository web application for the Tanzania Data Lab customized according to their instution organizational structure.
+          Mostly worked on Frontend design implementation, connecting with APIs and JWT security implementations.
+           Also at the beginining of the project i participated on database design on ERDs. Worked closely with in a team with backend developer on discussing some logic implementations on issues about security and permissions of users
           `,
           // "Created Front end of Yearn Financial Mutual Funds website. also degined simple web application for better user experience, designed DB Schemas as well.",
           color: "#ee3c26",
@@ -394,70 +394,27 @@ const experience = {
       title: "Volunteerships",
       experiences: [
         {
-          title: "Cross Winter of Code Mentor",
-          company: "CWOC",
-          company_url: "https://crosswoc.ieeedtu.in/",
-          logo_path: "cwoc.png",
-          duration: "Feb 2021 - Present",
-          location: "Work From Home",
+          title: "UISS Project Manager",
+          company: "Univeristy of Dar es Salaam ICT Students Society",
+          company_url: "https://udsm-ict-students-society.github.io/site/",
+          logo_path: "uiss.png",
+          duration: "May 2021 - Present",
+          location: "Work From School",
           description:
-            "Mentorship responsibilities were to help students plan the project, review issues and pull requests, ensure smooth progress and help them out when they are stuck.",
+            "Mentorship responsibilities were to help students plan, and coordinate various projects.",
           color: "#4285F4",
         },
+
         {
-          title: "Campus Hustler",
-          company: "Skillenza",
-          company_url: "https://skillenza.com/",
-          logo_path: "skillenza.png",
-          duration: "Feb 2021 - Present",
-          location: "Work from Home",
-          description:
-            "Spread Awareness of new Technologies and new Opportunities to Students and Grow Skillenza Community.",
-          color: "#196acf",
-        },
-        {
-          title: "GitHub Student Developer",
-          company: "GitHub",
-          company_url: "https://github.com/",
-          logo_path: "github.png",
-          duration: "Nov 2019 - Present",
-          location: "Work from Home",
-          description:
-            "Contribute to Open Source Community and Open Source Project.",
-          color: "#040f26",
-        },
-        {
-          title: "Google Local Guide",
-          company: "Google Map",
-          company_url: "https://maps.google.com/localguides/",
-          logo_path: "localguide.png",
-          duration: "Sep 2018 - Present",
-          location: "Work From Home",
-          description:
-            "Day-to-day responsibilities of helping local businesses to spread their business to the world. Helping users by writing reviews about different locations and spaces such as shops, malls, etc.",
-          color: "#D83B01",
-        },
-        {
-          title: "GDG Student Volunteer",
-          company: "Google Developer Groups",
+          title: "Google Developer Student Club, Lead",
+          company: "Google Developer Student Club",
           company_url: "https://gdg.community.dev/",
           logo_path: "gdg.png",
-          duration: "Feb 2021 - Present",
-          location: "Work From Home",
+          duration: "June 2021 - Present",
+          location: "Work From School",
           description:
-            "Google Developer Group Surat Student Volunteer and Member.",
+            "Google Developer Student Club Lead at Univerisity of Dar es Salaam.",
           color: "#D83B01",
-        },
-        {
-          title: "E. F. I. Student Volunteer",
-          company: "ENVIRONMENTALIST FOUNDATION OF INDIA",
-          company_url: "https://indiaenvironment.org/",
-          logo_path: "efi.png",
-          duration: "Apr 2017 - Present",
-          location: "Work From Home",
-          description:
-            "Take time out over weekends to join a gang of nation builders, nature enthusiasts to conserve what is left.",
-          color: "#5a900f",
         },
       ],
     },
