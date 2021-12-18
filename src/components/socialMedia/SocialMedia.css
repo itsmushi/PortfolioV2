@@ -47,13 +47,13 @@
   box-shadow: 0 5px 15px #333;
 }
 
-.gitlab i {
-  background-color: #ffcc52;
+.whatsapp i {
+  background-color: #62cd64;
   transition: all 0.2s ease-in-out;
 }
 
-.gitlab i:hover {
-  color: rgba(255, 255, 255, 1);
+.whatsapp i:hover {
+  color: rgba(98, 205, 100);
   box-shadow: 0 5px 15px #333;
 }
 

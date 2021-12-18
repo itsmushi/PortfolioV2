@@ -25,7 +25,7 @@ const socialMediaLinks = {
   github: "https://github.com/itsmushi",
   linkedin: "https://www.linkedin.com/in/james-mushi-a0961a1a5/",
   gmail: "jmushi175@gmail.com",
-  // gitlab: "https://gitlab.com/harikanani",
+  whatsapp: "https://wa.me/255625528592",
   facebook: "https://web.facebook.com/james.mushi.313/",
   twitter: "https://twitter.com/its_mushi_",
   instagram: "https://www.instagram.com/its_mushi__/",

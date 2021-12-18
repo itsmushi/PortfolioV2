@@ -15,12 +15,12 @@ export default function socialMedia() {
         <span></span>
       </a>
       <a
-        href={socialMediaLinks.gitlab}
-        className="icon-button gitlab"
+        href={socialMediaLinks.whatsapp}
+        className="icon-button whatsapp"
         target="_blank"
         rel="noopener noreferrer"
       >
-        <i className="fab fa-gitlab"></i>
+        <i className="fab fa-whatsapp"></i>
         <span></span>
       </a>
       <a
