@@ -451,7 +451,7 @@ const projects = {
     {
       id: "0",
       name: "dLab Drive",
-      url: "https://github.com/harikanani/AutomateInstaPyBot",
+      url: "https://github.com/itsmushi/Dlab-Drive-FrontEnd",
       description:
         " Web application instutional Memory, to store all files related to organization and its activities",
       languages: [
